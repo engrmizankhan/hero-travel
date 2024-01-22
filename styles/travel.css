@@ -230,7 +230,18 @@ nav a{
     background-size: cover;
     background-repeat: no-repeat;
     padding: 50px;
-    justify-content: center;
+    display: flex;
+    justify-content: right;
+    margin: 10px;
+}
+
+.deal2{
+    background-image: url(../Images/Group\ 40.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 50px;
+    display: flex;
+    justify-content: left;
     margin: 10px;
 }
 
