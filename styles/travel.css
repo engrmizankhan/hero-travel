@@ -163,8 +163,9 @@ nav a{
 
 .destination-images{
     display: flex;
-    justify-content: space-around;
-    margin: 25px 0;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
 }
 
 /*Why choose us*/
